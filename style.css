@@ -1,0 +1,46 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  main {
+    height: fit-content;
+  }
+  
+  .p5Canvas {
+    margin: 0;
+    display: block;
+  }
+  
+  div {
+    display: block;
+  }
+  
+  div.controls {
+    position: absolute;
+    width: fit-content;
+    top: 0.5rem;
+    left: 0.5rem;
+    background: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    user-select: none;
+  }
+  
+  div.control {
+    margin-top: 1rem;
+  }
+  
+  span.key {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 0.25rem;
+  }
