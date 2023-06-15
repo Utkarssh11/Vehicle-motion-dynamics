@@ -37,9 +37,8 @@ The Verlet integration technique used in this simulation enables realistic and d
 
 ## 🔧 Installation
 
-1. Clone the repository: `git clone https://github.com/Utkarssh11/Vehicle-motion-dynamics`
-2. Open the project directory: `cd vehicle-motion-dynamics`
-3. Open `index.html` in your preferred web browser.
+1. Clone the repository: `https://github.com/Utkarssh11/Vehicle-motion-dynamics`
+2. Open `index.html` in your preferred web browser.
 
 ## 🤝 Contributing
 
